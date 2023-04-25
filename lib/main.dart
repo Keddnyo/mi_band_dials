@@ -270,6 +270,7 @@ class MainContent extends StatelessWidget {
                                   fontWeight: FontWeight.bold,
                                   fontSize: 12.0,
                                 ),
+                                textAlign: TextAlign.center,
                                 maxLines: 1,
                               ),
                             ),
